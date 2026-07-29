@@ -4,7 +4,7 @@
 **App Name:** Jigsaw Quest  
 **Package Name:** `com.iraps.jigsawquest`  
 **Developer:** IRAPS / Pushpak Jain  
-**Contact Email:** pushpakjain628@gmail.com  
+**Contact Email:** iampsjain@gmail.com  
 
 ---
 
@@ -70,4 +70,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 ## 7. Contact Us
 If you have any questions, suggestions, or concerns regarding this Privacy Policy or the practices of Jigsaw Quest, please contact us at:
 
-**Email:** [pushpakjain628@gmail.com](mailto:pushpakjain628@gmail.com)
+**Email:** [iampsjain@gmail.com](mailto:iampsjain@gmail.com)
